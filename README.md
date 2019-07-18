@@ -46,7 +46,7 @@ function demoGet() {
 
 ## Parameters
 #### spreadsheet_id 
-The Spreadsheet ID is required in other the generate the data. It looks something like this `1abcdefghijklmnopqrstuv`.
+The Spreadsheet ID is required in order to generate the data. It looks something like this `1abcdefghijklmnopqrstuv`.
 ```
 function demoFetch() {
   return fetch('1abcdefghijklmnopqrstuv', '', '', token);
