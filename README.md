@@ -5,7 +5,7 @@ Easily transform your Google Spreadsheet data into JSON, and display the data to
 
 ## Library ID
 You can test the library using the project ID.
-`1fIrxOBnrIap0pGn9a01BHNus06OJDPGWFgwq3TFbfGJM8BZb_n_Ph1b7`
+`1fIrxOBnrIap0pGn9a01BHNus06OJDPGWFgwq3TFbfGJM8BZb_n_Ph1b7` and `spreadsheetJson` as the identifier.
 
 ## Methods
 #### fetch()
