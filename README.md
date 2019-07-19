@@ -7,7 +7,7 @@ Easily transform your Google Spreadsheet data into JSON, and display the data to
 You can test the library using the project ID.
 `1fIrxOBnrIap0pGn9a01BHNus06OJDPGWFgwq3TFbfGJM8BZb_n_Ph1b7` and `SpreadsheetJson` as the identifier.
 #### Usability
-`SpreadsheetJson.fetch('1abcdefghijklmnopqrstuvwxyz', '', '', token)`<\br>
+`SpreadsheetJson.fetch('1abcdefghijklmnopqrstuvwxyz', '', '', token)`<br/>
 `SpreadsheetJson.get('1abcdefghijklmnopqrstuvwxyz', '', '')`
 
 ## Methods
